@@ -1,0 +1,55 @@
+{
+"offices": [
+{
+"address": "Munshiganj Link Rd, Munshigonj Sodor, Bangladesh",
+"id": "ManikpurJame",
+"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+"lat": 23.554763,
+"lng":  90.529035,
+"name": "Manikpur Jame Masjid",
+"phone": "+8801989041827",
+"region": "asia"
+},
+{
+"address": "Munshiganj, Bangladesh",
+"id": "ManikPurMiddle",
+"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+"lat": 23.552363,
+"lng":  90.530794,
+"name": "Manikpur Middle Area Jame Masjid",
+"phone": "+8801812231241",
+"region": "asia"
+},
+"address": "Munshiganj, Bangladesh",
+"id": "ModdhoCourtgoanMasjid",
+"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+"lat": 23.550064, 
+"lng":  90.529921,
+"name": "Moddho Courtgoan Jame Masjid",
+"phone": "+8801914258131",
+"region": "asia"
+},
+"address": "MNG27, Munshiganj, Bangladesh",
+"id": "CentralMasjid",
+"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+"lat": 23.550181, 
+"lng":  90.534427,
+"name": "Munshiganj Centrel Jame Masjid",
+"phone": "",
+"region": "asia"
+},
+
+],
+"regions": [
+{
+"coords": {
+"lat": 23.554763,
+"lng":  90.529035,
+},
+"id": "south-asia,
+"name": "South Asia",
+"zoom": 8
+},
+
+]
+}
