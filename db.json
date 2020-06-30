@@ -7,7 +7,7 @@
 			"lng": 90.529035,
 			"name": "Manikpur Jame Masjid",
 			"phone": "+8801989041827",
-			"region": "asia"
+			"region": "South Asia"
 		},
 		{
 			"address": "Munshiganj, Bangladesh",
@@ -17,7 +17,7 @@
 			"lng": 90.530794,
 			"name": "Manikpur Middle Area Jame Masjid",
 			"phone": "+8801812231241",
-			"region": "asia"
+			"region": "South Asia"
 		},
 		{
 			"address": "Munshiganj, Bangladesh",
@@ -27,7 +27,7 @@
 			"lng": 90.529921,
 			"name": "Moddho Courtgoan Jame Masjid",
 			"phone": "+8801914258131",
-			"region": "asia"
+			"region": "South Asia"
 		},
 		{
 			"address": "MNG27, Munshiganj, Bangladesh",
@@ -37,14 +37,105 @@
 			"lng": 90.534427,
 			"name": "Munshiganj Centrel Jame Masjid",
 			"phone": "",
-			"region": "asia"
+			"region": "South Asia"
+		},
+		{
+			"address": "Munshiganj Sadar Old Rd, Munshiganj, Bangladesh",
+			"id": "ThanaMasjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.552940,
+			"lng": 90.534402,
+			"name": "Thana Jame Masjid",
+			"phone": "+8801675396463",
+			"region": "South Asia"
+		},
+		{
+			"address": "Munshiganj Launch Terminal Rd, Munshiganj, Bangladesh",
+			"id": "HatLaxmiganjShahiJameMasjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.560847,
+			"lng": 90.531871,
+			"name": "Hat Laxmiganj Shahi Jame Masjid",
+			"phone": "",
+			"region": "South Asia"
+		},
+		{
+			"address": "College Road, Munshiganj Sadar, Munshiganj, Bangladesh",
+			"id": "Haraganga College Masjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.549291,
+			"lng": 90.537944,
+			"name": "Govt. Haraganga College Masjid",
+			"phone": "",
+			"region": "South Asia"
+		},
+		{
+			"address": "Jubilee Road, Munshiganj, Bangladesh",
+			"id": "Mathpara Jame Masjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.545736,
+			"lng": 90.536015,
+			"name": "Mathpara Jame Masjid",
+			"phone": "",
+			"region": "South Asia"
+		},
+		{
+			"address": "Jubilee Road, Munshiganj, Bangladesh",
+			"id": "Mridhabari Jame Masjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.544926,
+			"lng": 90.533681,
+			"name": "Baitul Fazal Mridhabari Jame Masjid",
+			"phone": "+8801937829876",
+			"region": "South Asia"
+		},
+		{
+			"address": "Munshiganj Link Rd, Munshiganj, Bangladesh",
+			"id": "Bokchor Munshi Bari Jame Masjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.554516,
+			"lng": 90.520997,
+			"name": "Bokchor Munshi Bari Jame Masjid",
+			"phone": "",
+			"region": "South Asia"
+		},
+		{
+			"address": "A. R. Clinic Rd, Munshiganj, Bangladesh",
+			"id": "Panchosar Baitus-Salam Jame Masjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.556796,
+			"lng": 90.519503,
+			"name": "Panchosar Baitus-Salam Jame Masjid",
+			"phone": "+88028918131",
+			"region": "South Asia"
+		},
+		{
+			"address": "West Nayagaon Mukterpur-Kachari Road, 1500, Bangladesh",
+			"id": "Noyagaon Boro Masjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.563521,
+			"lng": 90.522259,
+			"name": "Noyagaon Boro Masjid",
+			"phone": "+88028918131",
+			"region": "South Asia"
+		},
+		{
+			"address": "Bepari Bari East Mireshworai Mukterpur-Kachari Road, 1500, Bangladesh",
+			"id": "Mireshworai Jame Masjid",
+			"image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+			"lat": 23.563944,
+			"lng": 90.520892,
+			"name": "Mireshworai Jame Masjid",
+			"phone": "",
+			"region": "South Asia"
 		}
+
 
 	],
 	"regions": [{
 		"coords": {
-			"lat": 23.554763,
-			"lng": 90.529035
+			"lat": 23.549291,
+			"lng": 90.537944
 		},
 		"id": "south-asia",
 		"name": "South Asia",
